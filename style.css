@@ -1,0 +1,18 @@
+
+#grid-container{
+    display: grid;
+    gap;10px;
+    padding: 10px;
+    background-color: orange;
+    grid-template-columns: 100px auto auto auto 80px 100px;
+    grid-template-columns: auto 100px 150px;
+}
+.grid-container>div{
+    border: 10px solid #f00;
+    height:30px;
+   
+}
+
+
+
+}
